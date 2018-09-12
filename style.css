@@ -221,6 +221,7 @@ p{
     font-size: 12px;
 }
 .media {
+
     mix-blend-mode: multiply;
     width: 100%;
 }
